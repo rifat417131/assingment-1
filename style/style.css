@@ -171,9 +171,49 @@
     height: 350px;
     margin-right: 200px;
 }
-
-
-
+.insta-section{
+    text-align: center;
+    padding: 50px;
+}
+.insta-section-titile{
+    padding-bottom: 5px;
+}
+.insta-section-image{
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    margin-bottom: 100px;
+}
+.insta-image{
+    height: 250px;
+}
+.deal{
+    background-image: url('Rectangle\ 9.png');
+    background-size: cover;
+    background-position: center;
+    width: 940px;
+    height: 350px;
+    margin-left: 170px;
+    margin-bottom: 128px;
+    text-align: center;
+}
+.deal-area{
+    padding-top: 130px;
+}
+.input-subscribe{
+    padding-top: 10px;
+}
+.input{
+    width: 450px;
+    height: 30px;
+    border-radius: 5px;
+}
+.subscribe{
+    height: 30px;
+    color: white;
+    background-color: #E55473;
+    border-radius: 5px;
+}
 
 
 
